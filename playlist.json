@@ -1,7 +1,9 @@
 {
-  "baseUrl": "https://yourdomain.com/videos/",
+  "baseUrl": "https://raw.githubusercontent.com/futurecleaners/RouteMedia-/main/",
   "playlist": [
-    "sofa_cleaning_promo.mp4",
-    "carpet_wash_ad.mp4"
+    "ssstik.io_@future.cleaners5_1784575187045.mp4",
+    "ssstik.io_@future.cleaners5_178457272269(1).mp4",
+    "ssstik.io_@future.cleaners5_1784575303993(1).mp4",
+    "ssstik.io_@future.cleaners5_1784748421621(1).mp4"
   ]
 }
